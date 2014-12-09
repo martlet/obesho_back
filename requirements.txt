@@ -1,0 +1,5 @@
+# List of required packages for ``obesho_back``.
+
+simplejson
+sqlalchemy
+tornado
